@@ -1,6 +1,6 @@
 # Krakin't Dynamic Roadmap
 
-TODO:
+OPEN:
 - Deploy the native token components once ETH gas prices are lowered to reasonable levels
 - Code the ButtCoin token swap contract
 - Deploy the ButtCoin token swap contract
@@ -27,7 +27,7 @@ TODO:
 - Look into registering Krakin't in any other country via forums etc.
 
 
-DONE:
-- Code the native token components
-- Document the native token components
-- Make the code of conduct and ethics
+CLOSED:
+- Code the native token components - done
+- Document the native token components - done
+- Make the code of conduct and ethics - done
