@@ -5,7 +5,7 @@ TODO:
 - Code the ButtCoin token swap contract
 - Deploy the ButtCoin token swap contract
 - Code the webpage, see whether the URL forwarding can be done to github to be the host
-- Register Krakin't as the sole propeirotrship in Canada, Ontario
+- Register Krakin't as the sole proprietorship in Canada, Ontario
 - Register the logo and a trademark
 - Register the miner with the Canadian patent office (or US office if Canadian one is unreasonable)
 - Investigate Metamask code to become the the Krakin't APP
@@ -25,7 +25,6 @@ TODO:
 - Look into registering Krakin't in the U.K.
 - Look into registering Krakin't in Serbia
 - Look into registering Krakin't in any other country via forums etc.
-
 
 
 DONE:
