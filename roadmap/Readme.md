@@ -1,6 +1,7 @@
 # Krakin't Dynamic Roadmap
 
 OPEN:
+- Whitepaper writeups
 - Deploy the native token components once ETH gas prices are lowered to reasonable levels
 - Code the ButtCoin token swap contract
 - Deploy the ButtCoin token swap contract
