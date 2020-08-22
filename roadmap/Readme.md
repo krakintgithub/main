@@ -3,8 +3,7 @@
 OPEN:
 - Whitepaper writeups
 - Deploy the native token components once ETH gas prices are lowered to reasonable levels
-- Code the ButtCoin token swap contract
-- Deploy the ButtCoin token swap contract
+- Deploy and document the ButtCoin token swap contract
 - Code the webpage, see whether the URL forwarding can be done to github to be the host
 - Register Krakin't as the sole proprietorship in Canada, Ontario
 - Register the logo and a trademark
@@ -32,3 +31,4 @@ CLOSED:
 - Code the native token components - done
 - Document the native token components - done
 - Make the code of conduct and ethics - done
+- Code the ButtCoin token swap contract - done
