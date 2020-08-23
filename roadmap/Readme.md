@@ -7,7 +7,6 @@ OPEN:
 - Code the webpage, see whether the URL forwarding can be done to github to be the host
 - Register Krakin't as the sole proprietorship in Canada, Ontario
 - Register the logo and a trademark
-- Register the miner with the Canadian patent office (or US office if Canadian one is unreasonable)
 - Investigate Metamask code to become the the Krakin't APP
 - Code the miner
 - Deploy the miner
@@ -32,3 +31,4 @@ CLOSED:
 - Document the native token components - done
 - Make the code of conduct and ethics - done
 - Code the ButtCoin token swap contract - done
+- Register the miner with the Canadian patent office (or US office if Canadian one is unreasonable) - Can't do it, not original enough
