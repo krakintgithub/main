@@ -2,6 +2,7 @@
 
 OPEN:
 - Whitepaper writeups
+- Mention the token once everything is properly done, here: https://en.bitcoin.it/wiki/Proof_of_burn
 - Deploy the native token components once ETH gas prices are lowered to reasonable levels
 - Deploy and document the ButtCoin token swap contract
 - Code the webpage, see whether the URL forwarding can be done to github to be the host
