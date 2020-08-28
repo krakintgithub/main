@@ -17,3 +17,5 @@
 8. Minting new tokens, other than by mining, is to be done under the circumstances that involve an incident or when it is required for Krakin't to provide liquidity. For example, if some exchange locks tokens due to an internal bug or absurd rules, then Krakin't will simply burn those tokens and mint the new ones directly into individual's account. Furthermore, Krakin't may mint tokens to provide liquidity, if and only if, it does not involve altering the total and the current supply. If those tokens are improperly used and sold, they will be burned immediately.
 
 9. Issuing new tokens in order to operate under Krakin't should never be a requirement. Whether the business has a token or not is not a concern of Krakin't. Furthermore, an individual using the platform should not need to understand how the block-chain works in order to use Krakin't. All of their passwords and data are to be stored on their own devices, unless Krakin't offers a secure service for such storage. Furthermore, user can and will always obtain their private keys if their accounts are within the domain of the Krakin't database(s).
+
+10. Krakin't should NEVER store the private keys.
