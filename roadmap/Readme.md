@@ -2,7 +2,9 @@
 
 OPEN:
 - Deploy the ButtCoin token swap contract
-- Whitepaper writeups
+- Research the existing project incubators, organize research data to fit Krakin't
+- Look for project incubators that would help Krakint take-off
+- Whitepaper writeups (after the research, solo miner, and treasury)
 - Mention the token once everything is properly done, here: https://en.bitcoin.it/wiki/Proof_of_burn
 - Code and deploy the webpage.
 - Register Krakin't as the sole proprietorship in Canada, Ontario
@@ -10,9 +12,10 @@ OPEN:
 - Investigate Metamask code to become the the Krakin't DAPP
 - Code the miner
 - Deploy the miner
+- Code the treasury
+- Deploy the treasury
 - If possible, make the miner work with adjusted Metamask
 - Contact remote Canadian businesses and ask about APP ideas that would help their business
-- Look for project incubators that would help Krakint take-off
 - See what the current project incubators are doing right and wrong
 - Setup the chat or the communication channels for the community
 - Investigate what is necessary for the CoinMarketcap listing, and update the roadmap
