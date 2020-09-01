@@ -1,6 +1,7 @@
 # Krakin't Dynamic Roadmap
 
 OPEN:
+- Deploy the ButtCoin token swap contract
 - Whitepaper writeups
 - Mention the token once everything is properly done, here: https://en.bitcoin.it/wiki/Proof_of_burn
 - Code the webpage, see whether the URL forwarding can be done to github to be the host
@@ -31,4 +32,4 @@ CLOSED:
 - Make the code of conduct and ethics - done
 - Code the ButtCoin token swap contract - done
 - Deploy the native token components once ETH gas prices are lowered to reasonable levels - done
-- Deploy and document the ButtCoin token swap contract
+- Code and document the ButtCoin token swap contract
