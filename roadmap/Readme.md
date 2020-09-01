@@ -18,11 +18,10 @@ OPEN:
 - List the token on CoinMarketcap once everything is done
 - Investigate exchanges and list the token on swaps, relays, exchanges etc.
 - List the token on coinbase and etherscan
-- Look into government grants and make proposals
 - Look into U.K. grants and make proposals
 - Look into registering Krakin't in the U.K.
-- Look into registering Krakin't in Serbia
-- Look into registering Krakin't in any other country via forums etc.
+- Look into registering Krakin't in Serbia (probably very hard to do)
+- Look into registering Krakin't in any other country.
 - Register the miner with the Canadian patent office (or US office if Canadian one is unreasonable) - when the group miner is done
 
 
