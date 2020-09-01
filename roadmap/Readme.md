@@ -4,7 +4,7 @@ OPEN:
 - Deploy the ButtCoin token swap contract
 - Whitepaper writeups
 - Mention the token once everything is properly done, here: https://en.bitcoin.it/wiki/Proof_of_burn
-- Code the webpage, see whether the URL forwarding can be done to github to be the host
+- Code and deploy the webpage.
 - Register Krakin't as the sole proprietorship in Canada, Ontario
 - Register the logo and a trademark
 - Investigate Metamask code to become the the Krakin't DAPP
