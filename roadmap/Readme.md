@@ -3,7 +3,6 @@
 OPEN:
 - Whitepaper writeups
 - Mention the token once everything is properly done, here: https://en.bitcoin.it/wiki/Proof_of_burn
-- Deploy and document the ButtCoin token swap contract
 - Code the webpage, see whether the URL forwarding can be done to github to be the host
 - Register Krakin't as the sole proprietorship in Canada, Ontario
 - Register the logo and a trademark
@@ -33,3 +32,4 @@ CLOSED:
 - Code the ButtCoin token swap contract - done
 - Register the miner with the Canadian patent office (or US office if Canadian one is unreasonable) - Can't do it, not original enough
 - Deploy the native token components once ETH gas prices are lowered to reasonable levels - done
+- Deploy and document the ButtCoin token swap contract
