@@ -23,6 +23,7 @@ OPEN:
 - Look into registering Krakin't in the U.K.
 - Look into registering Krakin't in Serbia
 - Look into registering Krakin't in any other country via forums etc.
+- Register the miner with the Canadian patent office (or US office if Canadian one is unreasonable) - when the group miner is done
 
 
 CLOSED:
@@ -30,6 +31,5 @@ CLOSED:
 - Document the native token components - done
 - Make the code of conduct and ethics - done
 - Code the ButtCoin token swap contract - done
-- Register the miner with the Canadian patent office (or US office if Canadian one is unreasonable) - Can't do it, not original enough
 - Deploy the native token components once ETH gas prices are lowered to reasonable levels - done
 - Deploy and document the ButtCoin token swap contract
