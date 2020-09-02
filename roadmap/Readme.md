@@ -10,7 +10,6 @@ OPEN:
 - Register Krakin't as the sole proprietorship in Canada, Ontario
 - Register the logo and a trademark
 - Investigate Metamask code to become the the Krakin't DAPP
-- Code the miner
 - Deploy the miner
 - Code the treasury
 - Deploy the treasury
@@ -36,3 +35,4 @@ CLOSED:
 - Code the ButtCoin token swap contract - done
 - Deploy the native token components once ETH gas prices are lowered to reasonable levels - done
 - Code and document the ButtCoin token swap contract
+- Code the miner - done
