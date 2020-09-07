@@ -1,7 +1,8 @@
 # Krakin't Dynamic Roadmap
 
 OPEN:
-- Deploy the ButtCoin token swap contract
+- Make the solominer adaptable to ETH 2.0 blocks per second (so we can do the manual-tune)
+- Test/Redeploy router and core before the presale or any other big event (security updated)
 - Research the existing project incubators, organize research data to fit Krakin't
 - Look for project incubators that would help Krakint take-off
 - Whitepaper writeups (after the research, solo miner, and treasury)
@@ -34,5 +35,6 @@ CLOSED:
 - Make the code of conduct and ethics - done
 - Code the ButtCoin token swap contract - done
 - Deploy the native token components once ETH gas prices are lowered to reasonable levels - done
-- Code and document the ButtCoin token swap contract
+- Code and document the ButtCoin token swap contract - done
 - Code the miner - done
+- Deploy the ButtCoin token swap contract - done
