@@ -1,17 +1,15 @@
 # Krakin't Dynamic Roadmap
 
-OPEN:
-- Make the solominer adaptable to ETH 2.0 blocks per second (so we can do the manual-tune)
-- Test/Redeploy router and core before the presale or any other big event (security updated)
-- Research the existing project incubators, organize research data to fit Krakin't
-- Look for project incubators that would help Krakint take-off
-- Whitepaper writeups (after the research, solo miner, and treasury)
-- Mention the token once everything is properly done, here: https://en.bitcoin.it/wiki/Proof_of_burn
+IN PROGRESS:
+- Whitepaper writeups (after the research, solo miner)
 - Code and deploy the webpage.
+
+
+OPEN:
+- Mention the token once everything is properly done, here: https://en.bitcoin.it/wiki/Proof_of_burn
 - Register Krakin't as the sole proprietorship in Canada, Ontario
 - Register the logo and a trademark
 - Investigate Metamask code to become the the Krakin't DAPP
-- Deploy the miner
 - Code the treasury
 - Deploy the treasury
 - If possible, make the miner work with adjusted Metamask
@@ -38,3 +36,8 @@ CLOSED:
 - Code and document the ButtCoin token swap contract - done
 - Code the miner - done
 - Deploy the ButtCoin token swap contract - done
+- Make the solominer adaptable to ETH 2.0 blocks per second (so we can do the manual-tune)
+- Test/Redeploy router and core before the presale or any other big event (security updates)
+- Research the existing project incubators, organize research data to fit Krakin't
+- Look for project incubators that would help Krakint take-off
+- Deploy the miner
