@@ -36,9 +36,9 @@ CLOSED:
 - Code and document the ButtCoin token swap contract - done
 - Code the miner - done
 - Deploy the ButtCoin token swap contract - done
-- Make the solominer adaptable to ETH 2.0 blocks per second (so we can do the manual-tune)
-- Test/Redeploy router and core before the presale or any other big event (security updates)
-- Research the existing project incubators, organize research data to fit Krakin't
-- Look for project incubators that would help Krakint take-off
-- Deploy the miner
-- Setup the chat or the communication channels for the community
+- Make the solominer adaptable to ETH 2.0 blocks per second (so we can do the manual-tune) - done
+- Test/Redeploy router and core before the presale or any other big event (security updates) - done
+- Research the existing project incubators, organize research data to fit Krakin't - done
+- Look for project incubators that would help Krakint take-off - done
+- Deploy the miner - done
+- Setup the chat or the communication channels for the community - done
