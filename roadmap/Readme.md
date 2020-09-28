@@ -24,7 +24,6 @@ OPEN:
 - Look into registering Krakin't in the U.K.
 - Look into registering Krakin't in Serbia (probably very hard to do)
 - Look into registering Krakin't in any other country.
-- Register the miner with the Canadian patent office (or US office if Canadian one is unreasonable) - when the group miner is done
 
 
 CLOSED:
@@ -42,3 +41,4 @@ CLOSED:
 - Look for project incubators that would help Krakint take-off - done
 - Deploy the miner - done
 - Setup the chat or the communication channels for the community - done
+- Register the miner with the Canadian patent office (or US office if Canadian one is unreasonable) - when the group miner is done - WILLL NOT BE DONE (change of plans).
