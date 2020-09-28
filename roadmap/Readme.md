@@ -6,6 +6,7 @@ IN PROGRESS:
 
 
 OPEN:
+- Add 10KRK to a miner, as a bounty to show how the miner works. 
 - Mention the token once everything is properly done, here: https://en.bitcoin.it/wiki/Proof_of_burn
 - Register Krakin't as the sole proprietorship in Canada, Ontario
 - Register the logo and a trademark
