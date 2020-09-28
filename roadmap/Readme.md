@@ -15,7 +15,6 @@ OPEN:
 - If possible, make the miner work with adjusted Metamask
 - Contact remote Canadian businesses and ask about APP ideas that would help their business
 - See what the current project incubators are doing right and wrong
-- Setup the chat or the communication channels for the community
 - Investigate what is necessary for the CoinMarketcap listing, and update the roadmap
 - List the token on CoinMarketcap once everything is done
 - Investigate exchanges and list the token on swaps, relays, exchanges etc.
@@ -41,3 +40,4 @@ CLOSED:
 - Research the existing project incubators, organize research data to fit Krakin't
 - Look for project incubators that would help Krakint take-off
 - Deploy the miner
+- Setup the chat or the communication channels for the community
