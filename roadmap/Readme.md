@@ -1,7 +1,6 @@
 # Krakin't Dynamic Roadmap
 
 IN PROGRESS:
-- Whitepaper writeups (after the research, solo miner)
 - Code and deploy the webpage.
 - Add 10KRK to a miner, as a bounty to show how the miner works. 
 
@@ -24,6 +23,7 @@ OPEN:
 - Look into registering Krakin't in the U.K.
 - Look into registering Krakin't in Serbia (probably very hard to do)
 - Look into registering Krakin't in any other country.
+- Light Paper Miner (with DApp) writeup - done
 
 
 CLOSED:
@@ -42,3 +42,5 @@ CLOSED:
 - Deploy the miner - done
 - Setup the chat or the communication channels for the community - done
 - Register the miner with the Canadian patent office (or US office if Canadian one is unreasonable) - when the group miner is done - WILLL NOT BE DONE (change of plans).
+- Light Paper Token writeup - done
+
