@@ -1,7 +1,7 @@
 # Krakin't Dynamic Roadmap
 
 IN PROGRESS:
-- LinkedIn registration
+- LinkedIn registration - Needs 7 days of an active account.
 - List the token on coinbase and etherscan
 - Coding the miner APP
 
