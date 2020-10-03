@@ -1,7 +1,6 @@
 # Krakin't Dynamic Roadmap
 
 IN PROGRESS:
-- Register Krakin't as the sole proprietorship in Canada, Ontario
 - LinkedIn registration
 - List the token on coinbase and etherscan
 - Coding the miner APP
@@ -44,4 +43,5 @@ CLOSED:
 - Light Paper Token writeup - done
 - Code and deploy the webpage.
 - Add 10KRK to a miner, as a bounty to show how the miner works. 
+- Register Krakin't as the sole proprietorship in Canada, Ontario
 
