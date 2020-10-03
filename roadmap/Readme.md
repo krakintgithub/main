@@ -1,13 +1,14 @@
 # Krakin't Dynamic Roadmap
 
 IN PROGRESS:
-- Code and deploy the webpage.
 - Add 10KRK to a miner, as a bounty to show how the miner works. 
-
+- Register Krakin't as the sole proprietorship in Canada, Ontario
+- LinkedIn registration
+- List the token on coinbase and etherscan
+- Coding the miner APP
 
 OPEN:
 - Mention the token once everything is properly done, here: https://en.bitcoin.it/wiki/Proof_of_burn
-- Register Krakin't as the sole proprietorship in Canada, Ontario
 - Register the logo and a trademark
 - Investigate Metamask code to become the the Krakin't DAPP
 - Code the treasury
@@ -18,12 +19,11 @@ OPEN:
 - Investigate what is necessary for the CoinMarketcap listing, and update the roadmap
 - List the token on CoinMarketcap once everything is done
 - Investigate exchanges and list the token on swaps, relays, exchanges etc.
-- List the token on coinbase and etherscan
 - Look into U.K. grants and make proposals
 - Look into registering Krakin't in the U.K.
 - Look into registering Krakin't in Serbia (probably very hard to do)
 - Look into registering Krakin't in any other country.
-- Light Paper Miner (with DApp) writeup - done
+- Light Paper Miner (with DApp) writeup
 
 
 CLOSED:
@@ -43,4 +43,5 @@ CLOSED:
 - Setup the chat or the communication channels for the community - done
 - Register the miner with the Canadian patent office (or US office if Canadian one is unreasonable) - when the group miner is done - WILLL NOT BE DONE (change of plans).
 - Light Paper Token writeup - done
+- Code and deploy the webpage.
 
