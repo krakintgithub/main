@@ -10,7 +10,6 @@ OPEN:
 - Work on the Krakin't labs patent.
 - Mention the token once everything is properly done, here: https://en.bitcoin.it/wiki/Proof_of_burn
 - Register the logo and a trademark
-- Investigate Metamask code to become the the Krakin't DAPP
 - Code the treasury
 - Deploy the treasury
 - Contact remote Canadian businesses and ask about APP ideas that would help their business
