@@ -5,6 +5,7 @@ IN PROGRESS:
 - List the token on etherscan (pending LinkedIn and an approval)
 - List the token on coinbase (pending etherscan)
 - Investigate exchanges and list the token on swaps, relays, exchanges etc (pending etherscan).
+- Light Paper Miner (with DApp) writeup
 
 OPEN:
 - Work on the Krakin't labs patent.
@@ -16,11 +17,8 @@ OPEN:
 - See what the current project incubators are doing right and wrong
 - Investigate what is necessary for the CoinMarketcap listing, and update the roadmap
 - List the token on CoinMarketcap once everything is done
-- Look into U.K. grants and make proposals
-- Look into registering Krakin't in the U.K.
-- Look into registering Krakin't in Serbia (probably very hard to do)
 - Look into registering Krakin't in any other country.
-- Light Paper Miner (with DApp) writeup
+
 
 
 CLOSED:
