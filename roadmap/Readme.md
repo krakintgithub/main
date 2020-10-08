@@ -3,7 +3,6 @@
 IN PROGRESS:
 - LinkedIn registration - Needs 7 days of an active account.
 - List the token on coinbase and etherscan
-- Coding the miner APP
 
 OPEN:
 - Mention the token once everything is properly done, here: https://en.bitcoin.it/wiki/Proof_of_burn
@@ -41,7 +40,8 @@ CLOSED:
 - Setup the chat or the communication channels for the community - done
 - Register the miner with the Canadian patent office (or US office if Canadian one is unreasonable) - when the group miner is done - WILLL NOT BE DONE (change of plans).
 - Light Paper Token writeup - done
-- Code and deploy the webpage.
-- Add 10KRK to a miner, as a bounty to show how the miner works. 
-- Register Krakin't as the sole proprietorship in Canada, Ontario
+- Code and deploy the webpage. done
+- Add 10KRK to a miner, as a bounty to show how the miner works. done
+- Register Krakin't as the sole proprietorship in Canada, Ontario done
+- Coding the miner APP done
 
