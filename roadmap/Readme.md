@@ -1,8 +1,7 @@
 # Krakin't Dynamic Roadmap
 
 IN PROGRESS:
-- LinkedIn registration - Needs 7 days of an active account.
-- List the token on etherscan (pending LinkedIn and an approval)
+- List the token on etherscan (pending approval)
 - List the token on coinbase (pending etherscan)
 - Investigate exchanges and list the token on swaps, relays, exchanges etc (pending etherscan).
 - Light Paper Miner (with DApp) writeup
@@ -42,6 +41,7 @@ CLOSED:
 - Add 10KRK to a miner, as a bounty to show how the miner works. done
 - Register Krakin't as the sole proprietorship in Canada, Ontario done
 - Coding the miner APP done
+- LinkedIn registration - Needs 7 days of an active account.
 
 CANCELED:
 - Register the miner with the Canadian patent office (or US office if Canadian one is unreasonable) - Miner is too simple.
