@@ -2,20 +2,21 @@
 
 IN PROGRESS:
 - LinkedIn registration - Needs 7 days of an active account.
-- List the token on coinbase and etherscan
+- List the token on etherscan (pending LinkedIn and an approval)
+- List the token on coinbase (pending etherscan)
+- Investigate exchanges and list the token on swaps, relays, exchanges etc (pending etherscan).
 
 OPEN:
+- Work on the Krakin't labs patent.
 - Mention the token once everything is properly done, here: https://en.bitcoin.it/wiki/Proof_of_burn
 - Register the logo and a trademark
 - Investigate Metamask code to become the the Krakin't DAPP
 - Code the treasury
 - Deploy the treasury
-- If possible, make the miner work with adjusted Metamask
 - Contact remote Canadian businesses and ask about APP ideas that would help their business
 - See what the current project incubators are doing right and wrong
 - Investigate what is necessary for the CoinMarketcap listing, and update the roadmap
 - List the token on CoinMarketcap once everything is done
-- Investigate exchanges and list the token on swaps, relays, exchanges etc.
 - Look into U.K. grants and make proposals
 - Look into registering Krakin't in the U.K.
 - Look into registering Krakin't in Serbia (probably very hard to do)
@@ -24,6 +25,7 @@ OPEN:
 
 
 CLOSED:
+- Code the emergency contract in case we need to re-route the existing contracts (simplified router+core, with transfer function only)
 - Code the native token components - done
 - Document the native token components - done
 - Make the code of conduct and ethics - done
@@ -38,10 +40,13 @@ CLOSED:
 - Look for project incubators that would help Krakint take-off - done
 - Deploy the miner - done
 - Setup the chat or the communication channels for the community - done
-- Register the miner with the Canadian patent office (or US office if Canadian one is unreasonable) - when the group miner is done - WILLL NOT BE DONE (change of plans).
 - Light Paper Token writeup - done
 - Code and deploy the webpage. done
 - Add 10KRK to a miner, as a bounty to show how the miner works. done
 - Register Krakin't as the sole proprietorship in Canada, Ontario done
 - Coding the miner APP done
+
+CANCELED:
+- Register the miner with the Canadian patent office (or US office if Canadian one is unreasonable) - Miner is too simple.
+- If possible, make the miner work with adjusted Metamask - not a safe approach!
 
