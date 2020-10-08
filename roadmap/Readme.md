@@ -17,11 +17,11 @@ OPEN:
 - Investigate what is necessary for the CoinMarketcap listing, and update the roadmap
 - List the token on CoinMarketcap once everything is done
 - Look into registering Krakin't in any other country.
+- Code the emergency contract in case we need to re-route the existing contracts (simplified router+core, with transfer function only)
 
 
 
 CLOSED:
-- Code the emergency contract in case we need to re-route the existing contracts (simplified router+core, with transfer function only)
 - Code the native token components - done
 - Document the native token components - done
 - Make the code of conduct and ethics - done
