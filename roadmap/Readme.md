@@ -17,6 +17,11 @@ OPEN:
 - List the token on CoinMarketcap once everything is done
 - Look into registering Krakin't in any other country.
 - Code the emergency contract in case we need to re-route the existing contracts (simplified router+core, with transfer function only)
+- List on multiple exchanges and obtain URLs that link directly to the market(s)/pair(s)
+- Sell tokens on exchanges
+- Get a Community Engagement
+- Gather Traction/Adoption/Partnerships/MVPs/Apps
+- Get the Team/Backers/Investors
 
 
 
