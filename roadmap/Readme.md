@@ -13,7 +13,6 @@ OPEN:
 - Deploy the treasury
 - Contact remote Canadian businesses and ask about APP ideas that would help their business
 - See what the current project incubators are doing right and wrong
-- Investigate what is necessary for the CoinMarketcap listing, and update the roadmap
 - List the token on CoinMarketcap once everything is done
 - Look into registering Krakin't in any other country.
 - Code the emergency contract in case we need to re-route the existing contracts (simplified router+core, with transfer function only)
@@ -47,6 +46,7 @@ CLOSED:
 - Coding the miner APP done
 - LinkedIn registration - Needs 7 days of an active account.
 - Light Paper Miner (with DApp) writeup
+- Investigate what is necessary for the CoinMarketcap listing, and update the roadmap
 
 CANCELED:
 - Register the miner with the Canadian patent office (or US office if Canadian one is unreasonable) - Miner is too simple.
