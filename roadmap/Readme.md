@@ -2,8 +2,9 @@
 
 IN PROGRESS:
 - List the token on etherscan (pending approval)
-- List the token on coinbase (pending etherscan)
-- Investigate exchanges and list the token on swaps, relays, exchanges etc (pending etherscan).
+- List the token on Bitcoin talk (pending etherscan)
+- Investigate listing on Bilaxy, Hotbit, Uniswap, Hoo, 1inch Exchange, Switcheo, IDEX
+
 
 OPEN:
 - Work on the Krakin't labs patent.
