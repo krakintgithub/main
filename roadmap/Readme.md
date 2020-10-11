@@ -4,7 +4,6 @@ IN PROGRESS:
 - List the token on etherscan (pending approval)
 - List the token on coinbase (pending etherscan)
 - Investigate exchanges and list the token on swaps, relays, exchanges etc (pending etherscan).
-- Light Paper Miner (with DApp) writeup
 
 OPEN:
 - Work on the Krakin't labs patent.
@@ -42,6 +41,7 @@ CLOSED:
 - Register Krakin't as the sole proprietorship in Canada, Ontario done
 - Coding the miner APP done
 - LinkedIn registration - Needs 7 days of an active account.
+- Light Paper Miner (with DApp) writeup
 
 CANCELED:
 - Register the miner with the Canadian patent office (or US office if Canadian one is unreasonable) - Miner is too simple.
