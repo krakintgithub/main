@@ -1,12 +1,15 @@
 # Krakin't Dynamic Roadmap
 
 IN PROGRESS:
-- List the token on etherscan (pending approval)
+- Code the single-click Metamask sign-on
+- List the token on etherscan (pending approval) - resending the application
 - List the token on Bitcoin talk (pending etherscan)
 - Investigate listing on Bilaxy, Hotbit, Uniswap, Hoo, 1inch Exchange, Switcheo, IDEX
 
 
 OPEN:
+- Add google 2FA to a sign-on
+- Document the sign-on
 - Work on the Krakin't labs patent.
 - Mention the token once everything is properly done, here: https://en.bitcoin.it/wiki/Proof_of_burn
 - Register the logo and a trademark
@@ -22,6 +25,7 @@ OPEN:
 - Gather Traction/Adoption/Partnerships/MVPs/Apps
 - Get the Team/Backers/Investors
 - Get a Community Engagement by making an exchange
+
 
 
 
