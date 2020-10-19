@@ -2,6 +2,7 @@
 
 IN PROGRESS:
 - Code the single-click Metamask sign-on
+- organize github onto organizations/projects
 - List the token on etherscan (pending approval) - resending the application
 - List the token on Bitcoin talk (pending etherscan)
 - Investigate listing on Bilaxy, Hotbit, Uniswap, Hoo, 1inch Exchange, Switcheo, IDEX
