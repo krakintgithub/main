@@ -19,9 +19,9 @@ OPEN:
 - Code the emergency contract in case we need to re-route the existing contracts (simplified router+core, with transfer function only)
 - List on multiple exchanges and obtain URLs that link directly to the market(s)/pair(s)
 - Sell tokens on exchanges
-- Get a Community Engagement
 - Gather Traction/Adoption/Partnerships/MVPs/Apps
 - Get the Team/Backers/Investors
+- Get a Community Engagement by making an exchange
 
 
 
@@ -52,4 +52,5 @@ CLOSED:
 CANCELED:
 - Register the miner with the Canadian patent office (or US office if Canadian one is unreasonable) - Miner is too simple.
 - If possible, make the miner work with adjusted Metamask - not a safe approach!
+
 
