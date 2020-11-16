@@ -1,16 +1,17 @@
 # Krakin't Dynamic Roadmap
 
 IN PROGRESS:
-- Code the single-click Metamask sign-on
 - organize github onto organizations/projects
 - List the token on etherscan (pending approval) - resending the application
 - List the token on Bitcoin talk (pending etherscan)
 - Investigate listing on Bilaxy, Hotbit, Uniswap, Hoo, 1inch Exchange, Switcheo, IDEX
-
+- Video reveal intro (add sound)
+- Add google 2FA to a sign-on
+- Code the presale for a token
+- Make presale a DAPP
+- Record youtube videos as HOW-TOs
 
 OPEN:
-- Add google 2FA to a sign-on
-- Document the sign-on
 - Work on the Krakin't labs patent.
 - Mention the token once everything is properly done, here: https://en.bitcoin.it/wiki/Proof_of_burn
 - Register the logo and a trademark
@@ -31,6 +32,7 @@ OPEN:
 
 
 CLOSED:
+- Code the single-click Metamask sign-on
 - Code the native token components - done
 - Document the native token components - done
 - Make the code of conduct and ethics - done
@@ -57,5 +59,7 @@ CLOSED:
 CANCELED:
 - Register the miner with the Canadian patent office (or US office if Canadian one is unreasonable) - Miner is too simple.
 - If possible, make the miner work with adjusted Metamask - not a safe approach!
+- Document the sign-on - noticed copy-cats, not open source anymore
+
 
 
